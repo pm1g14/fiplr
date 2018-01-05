@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Fiplr</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="splash_register">Register</string>
+    <string name="splash_login">Login</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="login_heading">Login</string>
+    <string name="login_username">Username:</string>
+    <string name="login_password">Password:</string>
+    <string name="login_button">Login</string>
+    <string name="register_heading">Register</string>
+    <string name="register_username">Username:</string>
+    <string name="register_password">Password:</string>
+    <string name="register_email">Email:</string>
+    <string name="register_age">Your age:</string>
+    <string name="register_button">Register</string>
+    <string name="title_activity_questionnaire">QuestionnaireActivity</string>
+    <string name="title_activity_trip_planner">TripPlannerActivity</string>
+    <string name="trpl_heading">Trip Planner</string>
+    <string name="trpl_destination">Destination:</string>
+    <string name="trpl_people">No of people:</string>
+    <string name="trpl_services">Specify services to be included</string>
+    <string name="trpl_budget">Maximum budget:</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="home_tripplanner">Plan a trip &#8230;</string>
+    <string name="home_navigation">What\'s around you &#8230;</string>
+    <string name="home_scheduleplanner">Daily schedule plan &#8230;</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="title_activity_schedule_planner">SchedulePlannerActivity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings_heading">Settings</string>
+    <string name="modifypref_button">modify...</string>
+    <string name="modify_preferences">Modify your preferences:</string>
+    <string name="modify_distance">Set location search distance:</string>
+    <string name="modify_password">Change your password</string>
+    <string name="old_password">Old Password:</string>
+    <string name="new_password">New Password:</string>
+    <string name="autolocate_text">Toggle autolocate:</string>
+    <string name="title_activity_detailed_view">DetailedViewActivity</string>
+    <string name="title_activity_step2">Step2Activity</string>
+    <string name="step2_button">View results</string>
+    <string name="questionnaire_heading">Register your preferences...</string><string name="questionnaire_skip">Skip this step for now</string>
+    <string name="questionnaire_submit">Submit</string>
+
+
+</resources>
